@@ -1,6 +1,3 @@
-streamlit
-pandas
-matplotlib
-git add requirements.txt
-git commit -m "add requirements"
-git push
+streamlit==1.29.0
+pandas==2.1.4
+matplotlib==3.8.2
